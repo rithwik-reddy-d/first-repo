@@ -1,2 +1,4 @@
-# first-repo
-To learn how to use git
+#first-repo
+
+Welcome here.
+This is a sample repository.
